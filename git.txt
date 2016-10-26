@@ -13,7 +13,7 @@ public class HW4_1103104202 {
 		int n=sc.nextInt();
 		System.out.println("gcd(m,n)="+gcd(m,n));
 		
-//
+//fff
 	}
 	public static int gcd(int m, int n)
 	{
